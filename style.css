@@ -29,6 +29,8 @@ body {
     background-color: #FFFFFF;
     border: 1px solid black;
     border-radius: 1rem;
+    /* Why setting values as rem does not work in box-shadow */
+    box-shadow: 9px 7px 0px 0px black; 
 }
 
 .blog-img {
@@ -53,11 +55,54 @@ body {
     border-radius: 5px;
     font-weight: 800;
     font-size: 0.75rem;
-    padding-top: 0.25rem;
+    padding-top: 0.28rem;
 }
 
 .published-date {
     margin-top: 0.75rem;
     font-size: 0.75rem;
-    font-weight: 600;
+    font-weight: 500;
+}
+
+.blog-heading {
+    margin-top: 0.75rem;
+    font-size: 1.25rem;
+    font-weight: 800;
+    word-spacing: 2px;
+}
+
+.blog-heading:hover {
+    color: #F4D04E;
+    cursor: pointer;
+}
+
+.blog-desc {
+    color: #7F7F7F;
+    margin-top: 0.75rem;
+    font-size: 0.86rem;
+    word-spacing: 0.1rem;
+    line-height: 1.3rem;
+    font-weight: 500;
+}
+
+.author-info-container {
+    margin-top: 1.5rem;
+    margin-left: 1.5rem;
+    width: 8.75rem;
+    height: 2rem;
+    /* border: 1px solid red; */
+    display: flex;
+    align-items: center;
+}
+
+.author-img {
+    max-width: 22%;
+}
+
+.author-name {
+    margin-left: 0.75rem;
+    font-size: 0.93rem;
+    display: inline;
+    color: #111111;
+    font-weight: 800;
 }
