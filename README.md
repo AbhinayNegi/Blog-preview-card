@@ -24,7 +24,7 @@ This is my solution for the Blog preview card challenge from the frontendmentor
 
 ![](https://github.com/AbhinayNegi/Blog-preview-card/blob/main/screenshot/Screenshot%202.png)
 
-![](screenshot/Screenshot 3.png)
+![](https://github.com/AbhinayNegi/Blog-preview-card/blob/main/screenshot/Screenshot%203.png)
 
 ### Links
 
