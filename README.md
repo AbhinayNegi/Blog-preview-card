@@ -21,6 +21,8 @@ This is my solution for the Blog preview card challenge from the frontendmentor
 ### Screenshot
 
 ![](https://github.com/AbhinayNegi/blog-preview-card/blob/main/screenshot/Screenshot.png)
+![](https://github.com/AbhinayNegi/blog-preview-card/blob/main/screenshot/Screenshot 2.png)
+![](https://github.com/AbhinayNegi/blog-preview-card/blob/main/screenshot/Screenshot 3.png)
 
 ### Links
 
